@@ -1,0 +1,15 @@
+*{
+    font-family: Helvetica;
+}
+body{
+    height: 900px;
+    background: black;
+    color:white;
+}
+div{
+    margin-top: 15%;
+    text-align: center;
+}
+p{
+    border: 1px dotted white;
+}
